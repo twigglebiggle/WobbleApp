@@ -8,6 +8,13 @@ Draw shapes ("bubbles") over a picture to choose what jiggles and how. Then poke
 
 ---
 
+## How to
+
+![Make it wobble: the editor](docs/how-to-1.png)
+![Heat map, freeze zones and settings](docs/how-to-2.png)
+![GIF maker](docs/how-to-3.png)
+![Wallpaper and gallery](docs/how-to-4.png)
+
 ## Features
 
 **Viewer and wallpaper**
@@ -57,6 +64,7 @@ Draw shapes ("bubbles") over a picture to choose what jiggles and how. Then poke
 
 - **AndWobble / AndWobble2**: the original app and the `.wbl` format. All credit for the idea goes to its creators. This project is an unofficial fan rebuild and is not affiliated with them.
 - Built by [@twigglebiggle](https://github.com/twigglebiggle). Code by Claude.
+- Art in the screenshots: Ran by **kinoshii-shroom**, plus pieces by _TBD_ (desk drawing) and _TBD_ (cherry blossoms). All art belongs to its artists and is shown only to demo the app.
 
 ## License
 
