@@ -1,0 +1,12 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.cxx/
+.kotlin/
+*.apk
+*.tgz
+/*.wbl
+app/src/main/assets/samples/Raora.wbl
